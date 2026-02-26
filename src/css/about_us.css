@@ -1,0 +1,12 @@
+/* region about_us Mobile  */
+/* endregion about_us Mobile  */
+
+/* region about_us Tablet  */
+@media screen and (min-width: 768px) {
+}
+/* endregion about_us Tablet  */
+
+/* region about_us Desktop  */
+@media screen and (min-width: 1366px) {
+}
+/* endregion about_us Desktop  */

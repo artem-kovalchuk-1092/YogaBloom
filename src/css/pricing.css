@@ -1,0 +1,12 @@
+/* region pricing Mobile  */
+/* endregion pricing Mobile  */
+
+/* region pricing Tablet  */
+@media screen and (min-width: 768px) {
+}
+/* endregion pricing Tablet  */
+
+/* region pricing Desktop  */
+@media screen and (min-width: 1366px) {
+}
+/* endregion pricing Desktop  */

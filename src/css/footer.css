@@ -1,0 +1,12 @@
+/* region footer Mobile  */
+/* endregion footer Mobile  */
+
+/* region footer Tablet  */
+@media screen and (min-width: 768px) {
+}
+/* endregion footer Tablet  */
+
+/* region footer Desktop  */
+@media screen and (min-width: 1366px) {
+}
+/* endregion footer Desktop  */
